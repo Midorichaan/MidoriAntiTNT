@@ -1,0 +1,27 @@
+name: MidoriAntiTNT
+main: azisaba.Main
+version: 2.0
+author: Midorichaan
+website: https://twitter.com/Midorichaan2525
+
+commands:
+  mtp:
+    description: World Teleport Command
+    default: op
+  ender:
+    description: Ender Chest Command
+    default: op
+  ptp:
+    description: Player Teleport Command
+    default: op
+  status:
+    description: Player Status Command
+    default: op
+  count:
+    description: Count Down Command
+    default: op
+  midori:
+    description: Midori Management Command
+  mfly:
+    description: Player Flymode Command
+    default: op
